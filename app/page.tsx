@@ -329,7 +329,7 @@ export default function Home() {
         <ContentSection title="Sobre">
           <p className="text-slate-600 leading-relaxed text-lg text-justify max-w-4xl">
             Possuo perfil proativo, comunicação clara e facilidade para assumir responsabilidades. Disponho de formação acadêmica e
-            vivência de trabalho plurais, o que me torna um profissional versátil e potencializa minha aptidão para liderar pessoas e
+            vivências de trabalho plurais, o que me torna um profissional versátil e potencializa minha aptidão para liderar pessoas e
             projetos. Valorizo o trabalho em equipe, sou movido por desafios e acredito que a persistência é a chave do sucesso na TI.
           </p>          
         </ContentSection>
