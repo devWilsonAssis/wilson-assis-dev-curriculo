@@ -296,24 +296,25 @@ export default function Home() {
             <div>
               <h1 className="text-2xl font-black tracking-tight text-slate-900">Wilson Assis</h1>
               <p className="text-blue-600 font-bold text-xs uppercase tracking-widest">Desenvolvedor</p>
-              <div className="mt-6 flex items-center gap-2 text-slate-400 text-sm font-medium">
+              <div className="mt-4 md:mt-6 flex items-center gap-2 text-slate-400 text-sm font-medium">
                 <MapPin size={16} className="text-blue-500" />
                 Ribeirão Preto, São Paulo, Brasil
               </div>
             </div>
           </div>
 
-          <div className="flex items-center gap-6">
-            <div className="flex items-center gap-4 border-r pr-6 border-slate-200">
+          <div className="flex flex-col sm:flex-row items-center gap-6 w-full md:w-auto">
+            <div className="flex items-center gap-4 border-b pb-4 sm:pb-0 sm:border-b-0 sm:border-r sm:pr-6 border-slate-200">
               <a href="https://wa.me/5516981673800?text=Olá,%20Wilson!%20Gostei%20do%20seu%20web%20currículo.%20Podemos%20conversar?" target="_blank" className="text-slate-400 hover:text-green-500 transition-colors"><FaWhatsapp size={22} /></a>
               <a href="mailto:wilsonassisdev@gmail.com" className="text-slate-400 hover:text-red-500 transition-colors"><Mail size={22} /></a>
               <a href="https://linkedin.com/in/wilson-assis-dev" target="_blank" className="text-slate-400 hover:text-blue-600 transition-colors"><FaLinkedin size={22} /></a>
               <a href="https://github.com/devWilsonAssis" target="_blank" className="text-slate-400 hover:text-slate-900 transition-colors"><FaGithub size={22} /></a>
             </div>
+            
             <a 
               href="/curriculo.pdf" 
               download="Curriculo_Wilson_Assis.pdf"
-              className="hidden sm:flex items-center gap-2 px-4 py-2 bg-slate-400 text-white rounded-xl text-xs hover:bg-blue-700 hover:shadow-lg hover:shadow-blue-200 transition-all active:scale-95 cursor-pointer no-underline"
+              className="flex items-center justify-center gap-2 px-6 py-3 sm:px-4 sm:py-2 bg-blue-600 text-white rounded-xl text-sm sm:text-xs hover:bg-blue-700 hover:shadow-lg hover:shadow-blue-200 transition-all active:scale-95 cursor-pointer no-underline w-full sm:w-auto"
             >
               <Download size={17} /> 
               Currículo PDF
