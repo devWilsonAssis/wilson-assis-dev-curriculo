@@ -78,7 +78,7 @@ const EXPERIENCIAS = [
     cargos: [
       { id: 8,
         cargo: "Agente censitário supervisor",
-        periodo: "02/2014 – 07/2016",
+        periodo: "09/2010 – 12/2010",
         descricao: `Após aprovação em concurso público, atuei no Censo 2010, coordenando e acompanhando as atividades de recenseadores em
           campo. Participei do mapeamento e reconhecimento das regiões antes do início do recenseamento, contribuindo para o planejamento
           das áreas de atuação. Fui responsável pela orientação da equipe, distribuição de tarefas e garantia do cumprimento dos prazos e
