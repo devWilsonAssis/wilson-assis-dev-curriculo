@@ -13,11 +13,14 @@ const EXPERIENCIAS = [
       { id: 1,
         cargo: "Analista de desenvolvimento de software sênior",
         periodo: "08/2023 – 04/2026",
-        descricao: `Atuei como liderança técnica em projetos estratégicos, participando do levantamento e refinamento de requisitos
-          junto às equipes de Framework, Compras e Precificação. Prestava apoio técnico, revisava código e garantia a qualidade, promovendo
-          boas práticas e padronização, sendo responsável por uma equipe de 6 pessoas. Implementava funcionalidades de alta complexidade,
-          atuando também na resolução de bugs críticos e na otimização de performance das aplicações. Utilizava diariamente metodologias
-          ágeis, colaborando na gestão de backlog, priorização e planejamento de entregas.` },
+        descricao: `Atuei como liderança técnica em projetos estratégicos de sistemas corporativos de missão crítica para o segmento
+          varejista, participando da definição de soluções técnicas, arquitetura de software e evolução contínua das aplicações.
+          Fui responsável pelo levantamento e refinamento de requisitos, condução de revisões de código, disseminação de boas práticas
+          de desenvolvimento e definição de padrões arquiteturais, apoiando a qualidade e escalabilidade das soluções. 
+          Participei da implementação de funcionalidades de alta complexidade, integrações entre sistemas, otimização de performance,
+          resolução de incidentes críticos e sustentação de aplicações corporativas.
+          Atuação em ambiente ágil, colaborando diretamente com Product Owners, analistas de negócio e equipes de desenvolvimento na
+          gestão de backlog, priorização de demandas e planejamento de entregas.` },
       { id: 2,
         cargo: "Analista de desenvolvimento de software pleno",
         periodo: "08/2021 – 07/2023",
@@ -41,10 +44,10 @@ const EXPERIENCIAS = [
       { id: 4,
         cargo: "Desenvolvedor júnior",
         periodo: "04/2019 – 01/2020",
-        descricao: `Atuei no desenvolvimento de funcionalidades de baixa a média complexidade, com acompanhamento da equipe de
-          Desenvolvimento Interno. Auxiliava na correção de bugs e pequenas melhorias nas aplicações, seguindo orientações e boas práticas
-          de desenvolvimento. Participava de revisões de código e atividades de evolução técnica contínua. Utilizava metodologias ágeis,
-          contribuindo na execução das tarefas e no fluxo de desenvolvimento do time.` },
+        descricao: `Atuei no desenvolvimento e manutenção de sistemas corporativos voltados ao segmento varejista. Responsável pela
+          implementação de funcionalidades, correção de bugs, melhorias evolutivas e suporte à sustentação das aplicações. Participei de
+          revisões de código, refinamento técnico de demandas e evolução contínua das soluções, contribuindo para a qualidade e estabilidade
+          dos sistemas. Atuação em ambiente ágil, colaborando com equipes multidisciplinares para entrega contínua de valor ao negócio.` },
       { id: 5,
         cargo: "Desenvolvedor trainee",
         periodo: "04/2018 – 03/2019",
@@ -295,7 +298,7 @@ export default function Home() {
             </div>
             <div>
               <h1 className="text-2xl font-black tracking-tight text-slate-900">Wilson Assis</h1>
-              <p className="text-blue-600 font-bold text-xs uppercase tracking-widest">Desenvolvedor</p>
+              <p className="text-blue-600 font-bold text-xs uppercase tracking-widest">Engenheiro de Software | Líder Técnico</p>
               <div className="mt-4 md:mt-6 flex items-center gap-2 text-slate-400 text-sm font-medium">
                 <MapPin size={16} className="text-blue-500" />
                 Ribeirão Preto, São Paulo, Brasil
@@ -328,9 +331,15 @@ export default function Home() {
         {/* SOBRE */}
         <ContentSection title="Sobre">
           <p className="text-slate-600 leading-relaxed text-lg text-justify max-w-4xl">
-            Possuo perfil proativo, comunicação clara e facilidade para assumir responsabilidades. Disponho de formação acadêmica e
-            vivências de trabalho plurais, o que me torna um profissional versátil e potencializa minha aptidão para liderar pessoas e
-            projetos. Valorizo o trabalho em equipe, sou movido por desafios e acredito que a persistência é a chave do sucesso na TI.
+            Software engineer com mais de 8 anos de experiência em desenvolvimento de software corporativo, atuando em sistemas de
+            missão crítica para o segmento de varejo e ERP. Ao longo da minha trajetória participei da implementação e evolução de
+            soluções de alta complexidade, com atuação em liderança técnica, levantamento e refinamento de requisitos, revisão de
+            código, arquitetura de software, otimização de performance e resolução de incidentes críticos. Possuo experiência com
+            desenvolvimento utilizando React, Next.js, TypeScript, Node.js, Python, C#, .NET, SQL, APIs REST e Gupta Centura, além
+            de sólida vivência em ambientes ágeis e colaboração multidisciplinar entre áreas técnicas e de negócio. Minha experiência
+            anterior em gestão de equipes contribuiu para o desenvolvimento de competências de liderança, comunicação e tomada de
+            decisão, permitindo atuar não apenas na implementação técnica, mas também na condução de projetos e no alinhamento entre
+            tecnologia e negócio.
           </p>          
         </ContentSection>
 
