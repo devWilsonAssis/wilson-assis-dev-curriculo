@@ -13,29 +13,15 @@ const EXPERIENCIAS = [
       { id: 1,
         cargo: "Analista de desenvolvimento de software sênior",
         periodo: "08/2023 – 04/2026",
-        descricao: `Atuei como liderança técnica em projetos estratégicos de sistemas corporativos de missão crítica para o segmento
-          varejista, participando da definição de soluções técnicas, arquitetura de software e evolução contínua das aplicações.
-          Fui responsável pelo levantamento e refinamento de requisitos, condução de revisões de código, disseminação de boas práticas
-          de desenvolvimento e definição de padrões arquiteturais, apoiando a qualidade e escalabilidade das soluções. 
-          Participei da implementação de funcionalidades de alta complexidade, integrações entre sistemas, otimização de performance,
-          resolução de incidentes críticos e sustentação de aplicações corporativas.
-          Atuação em ambiente ágil, colaborando diretamente com Product Owners, analistas de negócio e equipes de desenvolvimento na
-          gestão de backlog, priorização de demandas e planejamento de entregas.` },
+        descricao: `Atuei como liderança técnica em projetos estratégicos de sistemas corporativos de missão crítica para o segmento varejista, participando da definição de soluções técnicas, arquitetura de software e evolução contínua das aplicações. Fui responsável pelo levantamento e refinamento de requisitos, condução de revisões de código, disseminação de boas práticas de desenvolvimento e definição de padrões arquiteturais, apoiando a qualidade e escalabilidade das soluções.  Participei da implementação de funcionalidades de alta complexidade, integrações entre sistemas, otimização de performance, resolução de incidentes críticos e sustentação de aplicações corporativas. Atuação em ambiente ágil, colaborando diretamente com Product Owners, analistas de negócio e equipes de desenvolvimento na gestão de backlog, priorização de demandas e planejamento de entregas.` },
       { id: 2,
         cargo: "Analista de desenvolvimento de software pleno",
         periodo: "08/2021 – 07/2023",
-        descricao: `Atuei no desenvolvimento de funcionalidades de média a alta complexidade, participando do levantamento e refinamento
-          de requisitos junto às equipes de Framework, Compras e Estrutural. Colaborava com a equipe na resolução de bugs e melhorias de
-          performance, aplicando boas práticas de desenvolvimento e padrões definidos. Prestava apoio técnico a desenvolvedores menos
-          experientes e participava de revisões de código. Utilizava metodologias ágeis no dia a dia, contribuindo na execução das
-          demandas, organização do backlog e cumprimento das entregas.` },
+        descricao: `Atuei no desenvolvimento de funcionalidades de média a alta complexidade, participando do levantamento e refinamento de requisitos junto às equipes de Framework, Compras e Estrutural. Colaborava com a equipe na resolução de bugs e melhorias de performance, aplicando boas práticas de desenvolvimento e padrões definidos. Prestava apoio técnico a desenvolvedores menos experientes e participava de revisões de código. Utilizava metodologias ágeis no dia a dia, contribuindo na execução das demandas, organização do backlog e cumprimento das entregas.` },
       { id: 3,
         cargo: "Analista de desenvolvimento de software júnior",
         periodo: "02/2020 – 07/2021",
-        descricao: `Atuei no desenvolvimento de funcionalidades de baixa a média complexidade, com acompanhamento da equipe Estrutural.
-          Auxiliava na correção de bugs e melhorias nas aplicações internas, com foco em aprendizado das regras de negócio e dos padrões
-          adotados. Participava de revisões de código e atividades de aprendizado técnico contínuo. Utilizava metodologias ágeis,
-          contribuindo na execução das tarefas e no cumprimento das entregas.` },
+        descricao: `Atuei no desenvolvimento de funcionalidades de baixa a média complexidade, com acompanhamento da equipe Estrutural. Auxiliava na correção de bugs e melhorias nas aplicações internas, com foco em aprendizado das regras de negócio e dos padrões adotados. Participava de revisões de código e atividades de aprendizado técnico contínuo. Utilizava metodologias ágeis, contribuindo na execução das tarefas e no cumprimento das entregas.` },
     ]
   },
   {
@@ -44,18 +30,11 @@ const EXPERIENCIAS = [
       { id: 4,
         cargo: "Desenvolvedor júnior",
         periodo: "04/2019 – 01/2020",
-        descricao: `Atuei no desenvolvimento e manutenção de sistemas corporativos voltados ao segmento varejista. Responsável pela
-          implementação de funcionalidades, correção de bugs, melhorias evolutivas e suporte à sustentação das aplicações. Participei de
-          revisões de código, refinamento técnico de demandas e evolução contínua das soluções, contribuindo para a qualidade e estabilidade
-          dos sistemas. Atuação em ambiente ágil, colaborando com equipes multidisciplinares para entrega contínua de valor ao negócio.` },
+        descricao: `Atuei no desenvolvimento e manutenção de sistemas corporativos voltados ao segmento varejista. Responsável pela implementação de funcionalidades, correção de bugs, melhorias evolutivas e suporte à sustentação das aplicações. Participei de revisões de código, refinamento técnico de demandas e evolução contínua das soluções, contribuindo para a qualidade e estabilidade dos sistemas. Atuação em ambiente ágil, colaborando com equipes multidisciplinares para entrega contínua de valor ao negócio.` },
       { id: 5,
         cargo: "Desenvolvedor trainee",
         periodo: "04/2018 – 03/2019",
-        descricao: `Fui aprovado em processo seletivo com mais de 1.000 candidatos, após avaliação curricular e exame técnico. Atuei no
-          desenvolvimento de funcionalidades de baixa complexidade, com foco em aprendizado e evolução técnica, junto à equipe de
-          Desenvolvimento Interno. Auxiliava na correção de bugs simples e na manutenção das aplicações internas, seguindo orientações da
-          equipe. Participava de atividades de treinamento, revisões de código e práticas de boas práticas de desenvolvimento. Tive
-          contato com metodologias ágeis, acompanhando a execução das tarefas e o fluxo de desenvolvimento do time.` },
+        descricao: `Fui aprovado em processo seletivo com mais de 1.000 candidatos, após avaliação curricular e exame técnico. Atuei no desenvolvimento de funcionalidades de baixa complexidade, com foco em aprendizado e evolução técnica, junto à equipe de Desenvolvimento Interno. Auxiliava na correção de bugs simples e na manutenção das aplicações internas, seguindo orientações da equipe. Participava de atividades de treinamento, revisões de código e práticas de boas práticas de desenvolvimento. Tive contato com metodologias ágeis, acompanhando a execução das tarefas e o fluxo de desenvolvimento do time.` },
     ]
   },
   {
@@ -64,16 +43,11 @@ const EXPERIENCIAS = [
       { id: 6,
         cargo: "Supervisor SAC",
         periodo: "02/2014 – 07/2016",
-        descricao: `Era responsável pelo acompanhamento de desempenho de uma equipe de 20 pessoas e garantia da qualidade do atendimento.
-          Monitorava indicadores operacionais, fomentava resultados comerciais e apoiava o time na condução de atendimentos. Atuava
-          diretamente em tratativas de clientes críticos, buscando resolução eficiente e sua satisfação. Realizava análise e geração de
-          relatórios, reportando os resultados à liderança e apoiando a tomada de decisões.` },
+        descricao: `Era responsável pelo acompanhamento de desempenho de uma equipe de 20 pessoas e garantia da qualidade do atendimento. Monitorava indicadores operacionais, fomentava resultados comerciais e apoiava o time na condução de atendimentos. Atuava diretamente em tratativas de clientes críticos, buscando resolução eficiente e sua satisfação. Realizava análise e geração de relatórios, reportando os resultados à liderança e apoiando a tomada de decisões.` },
       { id: 7,
         cargo: "Operador SAC",
         periodo: "02/2013 – 01/2014",
-        descricao: `Atuei no atendimento ao cliente, realizando suporte comercial e técnico. Efetuava vendas de produtos e serviços,
-          alterações de planos e análise de cobranças. Prestava suporte técnico na identificação e resolução de problemas e realizava o
-          agendamento de visitas técnicas. Contribuía para a qualidade do atendimento e cumprimento dos indicadores operacionais.` },
+        descricao: `Atuei no atendimento ao cliente, realizando suporte comercial e técnico. Efetuava vendas de produtos e serviços, alterações de planos e análise de cobranças. Prestava suporte técnico na identificação e resolução de problemas e realizava o agendamento de visitas técnicas. Contribuía para a qualidade do atendimento e cumprimento dos indicadores operacionais.` },
     ]
   },
   {
@@ -82,11 +56,7 @@ const EXPERIENCIAS = [
       { id: 8,
         cargo: "Agente censitário supervisor",
         periodo: "09/2010 – 12/2010",
-        descricao: `Após aprovação em concurso público, atuei no Censo 2010, coordenando e acompanhando as atividades de recenseadores em
-          campo. Participei do mapeamento e reconhecimento das regiões antes do início do recenseamento, contribuindo para o planejamento
-          das áreas de atuação. Fui responsável pela orientação da equipe, distribuição de tarefas e garantia do cumprimento dos prazos e
-          padrões estabelecidos. Monitorava a qualidade das informações coletadas, realizando validações e correções quando necessário.
-          Atuava na resolução de problemas operacionais e no suporte à equipe, assegurando a eficiência do processo de coleta de dados.` },
+        descricao: `Após aprovação em concurso público, atuei no Censo 2010, coordenando e acompanhando as atividades de recenseadores em campo. Participei do mapeamento e reconhecimento das regiões antes do início do recenseamento, contribuindo para o planejamento das áreas de atuação. Fui responsável pela orientação da equipe, distribuição de tarefas e garantia do cumprimento dos prazos e padrões estabelecidos. Monitorava a qualidade das informações coletadas, realizando validações e correções quando necessário. Atuava na resolução de problemas operacionais e no suporte à equipe, assegurando a eficiência do processo de coleta de dados.` },
     ]
   }
 ];
@@ -131,10 +101,7 @@ const PROJETOS = [
     id: "curriculo",
     titulo: "Web Currículo Profissional",
     descricao: "Currículo web responsivo desenvolvido para apresentação profissional e portfólio técnico.",
-    resumo: `Aplicação web desenvolvida com foco em apresentação profissional, centralização de informações curriculares e demonstração de
-    competências técnicas. O projeto foi concebido para funcionar como um currículo digital moderno, responsivo e visualmente elegante,
-    permitindo navegação intuitiva, exibição de certificados, experiências profissionais, competências, formação acadêmica e projetos
-    técnicos.`,
+    resumo: `Aplicação web desenvolvida com foco em apresentação profissional, centralização de informações curriculares e demonstração de competências técnicas. O projeto foi concebido para funcionar como um currículo digital moderno, responsivo e visualmente elegante, permitindo navegação intuitiva, exibição de certificados, experiências profissionais, competências, formação acadêmica e projetos técnicos.`,
     stack: ["Next.js", "Lucide React", "TypeScript", "Tailwind CSS", "HTML5", "CSS3", "JavaScript", "Node.js", "React Hooks",
             "Visual Studio Code", "GitHub"]
   },
@@ -142,10 +109,7 @@ const PROJETOS = [
     id: "crm-customizado",
     titulo: "CRM Customizado",
     descricao: "CRM para gestão completa de empresa de redes de proteção, customizado com os requisitos especifícos do negócio.",
-    resumo: `Sistema de gestão voltado para empresas de instalação de redes de proteção. Centraliza o cadastro de clientes e endereços,
-    com registro detalhado de cada ambiente — cômodos, aberturas, medidas e especificações de rede. A partir dessas informações, o
-    sistema suporta a emissão de orçamentos, o acompanhamento das instalações desde o agendamento até a conclusão, e o controle de
-    garantias e manutenções no pós-venda.`,
+    resumo: `Sistema de gestão voltado para empresas de instalação de redes de proteção. Centraliza o cadastro de clientes e endereços, com registro detalhado de cada ambiente — cômodos, aberturas, medidas e especificações de rede. A partir dessas informações, o sistema suporta a emissão de orçamentos, o acompanhamento das instalações desde o agendamento até a conclusão, e o controle de garantias e manutenções no pós-venda.`,
     stack: ["React", "TypeScript", "Tailwind CSS", "shadcn/ui + Radix UI", "TanStack Query", "Wouter", "Node.js", "Express 5",
             "tsx", "Visual Studio Code", "PostgreSQL", "Drizzle ORM", "GitHub"]
   },
@@ -153,13 +117,7 @@ const PROJETOS = [
     id: "modernizacao-erp",
     titulo: "Modernização de ERP Legado",
     descricao: "Liderança técnica na modernização visual de ERP legado com migração gradual.",
-    resumo: `Projeto de modernização visual de ERP legado desenvolvido em tecnologia desktop de baixa adoção no mercado, utilizando
-      recursos de skins XML disponibilizados em atualização recente do IDE. Atuei como liderança técnica de uma equipe de 6 pessoas,
-      conduzindo a definição da solução, criação de componentes reutilizáveis aderentes à nova identidade visual e adaptações no
-      framework para garantir compatibilidade entre módulos modernizados e legados durante a migração gradual do sistema. Desenvolvi
-      scripts para automação de alterações em lote, reduzindo significativamente o esforço operacional do processo de migração.
-      Também elaborei toda a documentação relacionada ao projeto, como um manual de instruções para orientar as equipes de
-      desenvolvimento, um "de x para" dos artefatos, entre outros.`,
+    resumo: `Projeto de modernização visual de ERP legado desenvolvido em tecnologia desktop de baixa adoção no mercado, utilizando recursos de skins XML disponibilizados em atualização recente do IDE. Atuei como liderança técnica de uma equipe de 6 pessoas, conduzindo a definição da solução, criação de componentes reutilizáveis aderentes à nova identidade visual e adaptações no framework para garantir compatibilidade entre módulos modernizados e legados durante a migração gradual do sistema. Desenvolvi scripts para automação de alterações em lote, reduzindo significativamente o esforço operacional do processo de migração. Também elaborei toda a documentação relacionada ao projeto, como um manual de instruções para orientar as equipes de desenvolvimento, um "de x para" dos artefatos, entre outros.`,
     stack: ["XML", "Gupta Centura", "OpenText Team Developer", "PowerShell", "Notepad++", "Regex", "Oracle PL/SQL", "Git", "Azure",
             "JIRA"]
   },
@@ -167,25 +125,14 @@ const PROJETOS = [
     id: "atualizacao-ide",
     titulo: "Atualização de versão de IDE em ERP legado",
     descricao: "Liderança técnica na atualização de ERP legado entre versões críticas do IDE e validação em larga escala.",
-    resumo: `Projeto de migração tecnológica de ERP legado entre versões críticas do Gupta Centura para OpenText Team Developer,
-      envolvendo dezenas de módulos e milhares de aplicações. Atuei como liderança técnica de uma equipe composta por 5 especialistas e
-      eu, conduzindo a estratégia de migração, definição técnica das soluções e estabilização do ambiente. Devido às incompatibilidades
-      entre versões, a migração precisou ocorrer em múltiplas etapas, partindo do Gupta Centura 2.1 até o OpenText Team Developer 7.5,
-      versão moderna e atualmente suportada pelo mercado. Durante o processo, foram realizados ajustes estruturais no framework para
-      viabilizar a migração e estabilização dos recursos, além de um extenso processo de validação, identificação de bugs nativos da nova
-      versão do IDE e tratativas técnicas junto ao fornecedor da ferramenta. Ao final do projeto, apresentei um webinar técnico ao vivo
-      para mais de 300 clientes, demonstrando os ganhos obtidos com a modernização da plataforma.`,
+    resumo: `Projeto de migração tecnológica de ERP legado entre versões críticas do Gupta Centura para OpenText Team Developer, envolvendo dezenas de módulos e milhares de aplicações. Atuei como liderança técnica de uma equipe composta por 5 especialistas e eu, conduzindo a estratégia de migração, definição técnica das soluções e estabilização do ambiente. Devido às incompatibilidades entre versões, a migração precisou ocorrer em múltiplas etapas, partindo do Gupta Centura 2.1 até o OpenText Team Developer 7.5, versão moderna e atualmente suportada pelo mercado. Durante o processo, foram realizados ajustes estruturais no framework para viabilizar a migração e estabilização dos recursos, além de um extenso processo de validação, identificação de bugs nativos da nova versão do IDE e tratativas técnicas junto ao fornecedor da ferramenta. Ao final do projeto, apresentei um webinar técnico ao vivo para mais de 300 clientes, demonstrando os ganhos obtidos com a modernização da plataforma.`,
     stack: ["Gupta Centura", "OpenText Team Developer", "Oracle PL/SQL", "Notepad++", "Regex", "Git", "JIRA"]
   },
   {
     id: "projeto-cangaco",
     titulo: "Projeto Cangaço: reconhecimento de misoginia na rede social Twitter",
     descricao: "Modelo de IA para identificação de misoginia em tweets utilizando NLP e aprendizado supervisionado.",
-    resumo: `Desenvolvimento da “Maria Bonita (MB)”, uma inteligência artificial voltada à identificação automatizada de misoginia em
-    publicações da antiga rede social Twitter. O projeto foi baseado em aprendizado de máquina supervisionado e técnicas de Processamento
-    de Linguagem Natural (NLP), envolvendo captura automatizada de tweets via API oficial da plataforma, pré-processamento textual,
-    estruturação e supervisão dos dados com apoio de especialistas da área jurídica. O treinamento do modelo foi realizado utilizando
-    arquiteturas Word2Vec CBOW e Skip-gram, alcançando acurácia superior a 80% na identificação de conteúdos misóginos.`,
+    resumo: `Desenvolvimento da “Maria Bonita (MB)”, uma inteligência artificial voltada à identificação automatizada de misoginia em publicações da antiga rede social Twitter. O projeto foi baseado em aprendizado de máquina supervisionado e técnicas de Processamento de Linguagem Natural (NLP), envolvendo captura automatizada de tweets via API oficial da plataforma, pré-processamento textual, estruturação e supervisão dos dados com apoio de especialistas da área jurídica. O treinamento do modelo foi realizado utilizando arquiteturas Word2Vec CBOW e Skip-gram, alcançando acurácia superior a 80% na identificação de conteúdos misóginos.`,
     stack: ["Python", "Word2Vec", "NLP", "Gensim", "Docker", "Git", "Jupyter Notebook", "Google Colab", "PyCharm", "Anaconda"]
   }
 ];
@@ -331,15 +278,7 @@ export default function Home() {
         {/* SOBRE */}
         <ContentSection title="Sobre">
           <p className="text-slate-600 leading-relaxed text-lg text-justify max-w-4xl">
-            Software engineer com mais de 8 anos de experiência em desenvolvimento de software corporativo, atuando em sistemas de
-            missão crítica para o segmento de varejo e ERP. Ao longo da minha trajetória participei da implementação e evolução de
-            soluções de alta complexidade, com atuação em liderança técnica, levantamento e refinamento de requisitos, revisão de
-            código, arquitetura de software, otimização de performance e resolução de incidentes críticos. Possuo experiência com
-            desenvolvimento utilizando React, Next.js, TypeScript, Node.js, Python, C#, .NET, SQL, APIs REST e Gupta Centura, além
-            de sólida vivência em ambientes ágeis e colaboração multidisciplinar entre áreas técnicas e de negócio. Minha experiência
-            anterior em gestão de equipes contribuiu para o desenvolvimento de competências de liderança, comunicação e tomada de
-            decisão, permitindo atuar não apenas na implementação técnica, mas também na condução de projetos e no alinhamento entre
-            tecnologia e negócio.
+            Software engineer com mais de 8 anos de experiência em desenvolvimento de software corporativo, atuando em sistemas de missão crítica para o segmento de varejo e ERP. Ao longo da minha trajetória participei da implementação e evolução de soluções de alta complexidade, com atuação em liderança técnica, levantamento e refinamento de requisitos, revisão de código, arquitetura de software, otimização de performance e resolução de incidentes críticos. Possuo experiência com desenvolvimento utilizando React, Next.js, TypeScript, Node.js, Python, C#, .NET, SQL, APIs REST e Gupta Centura, além de sólida vivência em ambientes ágeis e colaboração multidisciplinar entre áreas técnicas e de negócio. Minha experiência anterior em gestão de equipes contribuiu para o desenvolvimento de competências de liderança, comunicação e tomada de decisão, permitindo atuar não apenas na implementação técnica, mas também na condução de projetos e no alinhamento entre tecnologia e negócio.
           </p>          
         </ContentSection>
 
